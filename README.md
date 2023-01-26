@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakeohanlon
-- 👀 I’m interested in Application Creation
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Web Application Development
+- 🌱 I’m currently learning JS and associated frameworks
 - 💞️ I’m looking to collaborate on Apps
 - 📫 How to reach me ...
 
